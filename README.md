@@ -2,7 +2,7 @@ Global Electronics, a leading retailer of consumer electronics, has provided you
 The main area covered here are Customer Analysis, Product Analysis, Store Analysis, Sales Analysis.
 
 DOCUMENTATION: During this project i have followed the following steps
-               1) Changing dataset from unstructed to structed format
+               1) Getting Datasets of customers, products, sales, stores, exchangerates etc
                2) Data Transformation (which include Data Cleaning, Standardizing etc)
                3) Data Merging (using Joining, Merging etc)
                4) Connectiong to SQL, and importing the dataset to SQL Database
